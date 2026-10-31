@@ -41,6 +41,9 @@
     <img src="https://img.shields.io/badge/LINE-Chat_with_me-06C755?style=for-the-badge&logo=line&logoColor=white" alt="LINE" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rayjoshuaa&style=flat-square&color=2F81F7" alt="Profile views" />
+</p>
 
 </div>
 
