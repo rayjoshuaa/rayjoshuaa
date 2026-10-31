@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ray Joshua
+# Ray Joshua Angcan Balingkit
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -164,8 +164,8 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayjoshuaa&show_icons=true&theme=tokyonight&hide_border=true" alt="Ray Joshua's GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayjoshuaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayjoshuaa&theme=tokyonight" alt="Ray Joshua Angcan Balingkit's GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayjoshuaa&theme=tokyonight" alt="Top languages" width="49%" />
 </p>
 
 <p align="center">
@@ -174,12 +174,15 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 
 ---
 
-## 🏅 Certifications & Speaking
+## 🏅 Certifications, Trainings & Speaking
 
-- **Computer Systems Servicing (CSS) NC II** — TESDA
-- **Microsoft Technology Associate — Database** — Microsoft
-- **Cisco CCNA — Basic Networking** & **Cisco Networking — Advanced Networking** — Cisco
-- **Workshop Speaker** — IT Fest: Python Game Development & Java Programming
+- **Computer Systems Servicing (CSS) NC II** — TESDA National Certificate
+- **Microsoft Technology Associate (MTA) — Database** — Microsoft
+- **Cisco Certified Network Associate (CCNA) — Basic Networking** — Cisco
+- **Cisco Networking — Advanced Networking** — Cisco
+- **Capstone Project Adviser** — BSIT Program
+- **Workshop Speaker** — IT Fest: Python Game Development
+- **Workshop Speaker** — IT Fest: Java Programming
 
 ---
 
