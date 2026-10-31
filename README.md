@@ -164,12 +164,12 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayjoshuaa&theme=tokyonight" alt="Ray Joshua Angcan Balingkit's GitHub stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayjoshuaa&theme=tokyonight" alt="Top languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rayjoshuaa&theme=github" alt="Ray Joshua Angcan Balingkit's GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rayjoshuaa&theme=github" alt="Top languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rayjoshuaa&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=rayjoshuaa&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
