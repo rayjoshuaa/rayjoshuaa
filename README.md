@@ -59,6 +59,7 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 - 🤖 I build with AI-assisted workflows daily — and I teach students to use technology responsibly
 - 🗣️ Languages: English · Tagalog · Bisaya (Cebuano)
 - 🤝 **Open to collaborations on any project related to education**
+- 🌱 Currently: teaching ICT & Robotics at SIAMIS in Bangkok, and sharing daily notes on AI, ICT and robotics in education
 
 ---
 
