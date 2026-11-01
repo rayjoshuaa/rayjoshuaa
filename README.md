@@ -233,6 +233,12 @@ From my blog on tech, teaching and building software:
 
 ---
 
+## 📬 Let's Connect
+
+The fastest ways to reach me are [LinkedIn](https://www.linkedin.com/in/rayjoshua432) and [LINE](https://line.me/ti/p/~duswaaaa). I post daily notes on AI, ICT and robotics in education on [LinkedIn](https://www.linkedin.com/in/rayjoshua432) and [X](https://x.com/ry_devs), and I write longer pieces on my [blog](https://rayjoshuaa-portfolio.pages.dev/blog). For project inquiries, email works too: [rayjoshua432@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rayjoshua432@gmail.com).
+
+---
+
 <p align="center">
   <i>"I started from scratch — and I teach my students they can too."</i><br><br>
   <a href="https://rayjoshuaa-portfolio.pages.dev"><b>Portfolio</b></a> ·
