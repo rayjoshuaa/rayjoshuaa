@@ -164,9 +164,9 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏫 <a href="https://rayjoshuaa.github.io">SIAMIS Lesson Plan Hub</a></h3>
+      <h3 align="center">🏫 SIAMIS Lesson Plan Hub</h3>
       <p align="center">A live lesson-planning platform for my school — Computing, Computer Science, ICT & Media materials for Years 1–11, used by co-teachers every week.</p>
-      <p align="center"><a href="https://github.com/rayjoshuaa/rayjoshuaa.github.io"><b>View repository →</b></a></p>
+      <p align="center"><a href="https://github.com/rayjoshuaa/rayjoshuaa.github.io"><b>Repository →</b></a> · <a href="https://rayjoshuaa.github.io"><b>Live site →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🗂️ SIAMIS School Management System</h3>
@@ -176,7 +176,7 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 <a href="https://rayjoshuaa-portfolio.pages.dev">Portfolio & Services</a></h3>
+      <h3 align="center">🌐 Portfolio & Services</h3>
       <p align="center">My full portfolio — services, packages, 9+ projects and writing on tech and teaching.</p>
       <p align="center"><a href="https://rayjoshuaa-portfolio.pages.dev"><b>Visit portfolio →</b></a></p>
     </td>
@@ -192,12 +192,12 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
       <td width="50%" valign="top">
         <h3 align="center">📰 Daily Notes on AI, ICT & Robotics</h3>
         <p align="center">Three posts a day for teachers — AI news, free tools and classroom resources, with a clay-diorama visual style.</p>
-        <p align="center"><a href="https://www.linkedin.com/in/rayjoshua432"><b>Follow on LinkedIn →</b></a> · <a href="https://x.com/ry_devs"><b>Follow on X →</b></a></p>
+        <p align="center"><a href="https://www.linkedin.com/in/rayjoshua432"><b>Follow on LinkedIn →</b></a></p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">👩‍💻 Rica Mae Supa — Portfolio</h3>
-        <p align="center">A light-bluish developer portfolio I built for a fellow ICT teacher and virtual assistant in Hua Hin, Thailand.</p>
-        <p align="center"><a href="https://ricamaesupa-portfolio.pages.dev"><b>Visit her portfolio →</b></a></p>
+        <h3 align="center">⏱️ ClassTimer+</h3>
+        <p align="center">A calm, big-screen classroom countdown timer — traffic-light ring, gentle chime and overtime count-up. The first of my Teacher Tools: free, no sign-up, works offline.</p>
+        <p align="center"><a href="https://github.com/rayjoshuaa/classtimer-plus"><b>Repository →</b></a> · <a href="https://classtimer-plus.pages.dev"><b>Live app →</b></a></p>
       </td>
     </tr>
 </table>
@@ -235,7 +235,7 @@ From my blog on tech, teaching and building software:
 ## 🎯 My 2026 Focus
 
 - Growing the SIAMIS computing program and its lesson-plan platform
-- Publishing daily notes on AI, ICT and robotics for teachers on LinkedIn and X
+- Publishing daily notes on AI, ICT and robotics for teachers on LinkedIn
 - Building small, useful apps for teachers — and shipping them in public
 ---
 
@@ -254,12 +254,13 @@ From my blog on tech, teaching and building software:
 
 ## 📬 Let's Connect
 
-The fastest ways to reach me are [LinkedIn](https://www.linkedin.com/in/rayjoshua432) and [LINE](https://line.me/ti/p/~duswaaaa). I post daily notes on AI, ICT and robotics in education on [LinkedIn](https://www.linkedin.com/in/rayjoshua432) and [X](https://x.com/ry_devs), and I write longer pieces on my [blog](https://rayjoshuaa-portfolio.pages.dev/blog). For project inquiries, email works too: [rayjoshua432@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rayjoshua432@gmail.com).
+The fastest ways to reach me are [LinkedIn](https://www.linkedin.com/in/rayjoshua432) and [LINE](https://line.me/ti/p/~duswaaaa). I post daily notes on AI, ICT and robotics in education on [LinkedIn](https://www.linkedin.com/in/rayjoshua432), and I write longer pieces on my [blog](https://rayjoshuaa-portfolio.pages.dev/blog). For project inquiries, email works too: [rayjoshua432@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=rayjoshua432@gmail.com).
 
 ---
 
 <p align="center">
-  <i>"I started from scratch — and I teach my students they can too."</i><br><br>
+  <i>"More things are wrought by prayer than this world dreams of."</i><br>
+  <sub>— Alfred Lord Tennyson</sub><br><br>
   <a href="https://rayjoshuaa-portfolio.pages.dev"><b>Portfolio</b></a> ·
   <a href="https://www.linkedin.com/in/rayjoshua432"><b>LinkedIn</b></a> ·
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rayjoshua432@gmail.com"><b>Email</b></a> ·
