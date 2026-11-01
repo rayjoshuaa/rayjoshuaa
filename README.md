@@ -264,5 +264,6 @@ The fastest ways to reach me are [LinkedIn](https://www.linkedin.com/in/rayjoshu
   <a href="https://rayjoshuaa-portfolio.pages.dev"><b>Portfolio</b></a> ·
   <a href="https://www.linkedin.com/in/rayjoshua432"><b>LinkedIn</b></a> ·
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rayjoshua432@gmail.com"><b>Email</b></a> ·
+  <a href="https://x.com/ry_devs"><b>X</b></a> ·
   <a href="https://line.me/ti/p/~duswaaaa"><b>LINE</b></a>
 </p>
