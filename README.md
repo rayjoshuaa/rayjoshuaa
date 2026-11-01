@@ -60,7 +60,7 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 - 🗣️ Languages: English · Tagalog · Bisaya (Cebuano)
 - 🤝 **Open to collaborations on any project related to education**
 - 🌱 Currently: teaching ICT & Robotics at SIAMIS in Bangkok, and sharing daily notes on AI, ICT and robotics in education
-- - 🎓 Verified GitHub Education teacher — now building with Copilot Pro
+- 🎓 Verified GitHub Education teacher — now building with Copilot Pro
 
 ---
 
