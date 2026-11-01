@@ -214,6 +214,13 @@ From my blog on tech, teaching and building software:
 
 ---
 
+## 🎯 My 2026 Focus
+
+- Growing the SIAMIS computing program and its lesson-plan platform
+- Publishing daily notes on AI, ICT and robotics for teachers on LinkedIn and X
+- Building small, useful apps for teachers — and shipping them in public
+---
+
 ## 🏅 Certifications, Trainings & Speaking
 
 - **Computer Systems Servicing (CSS) NC II** — TESDA National Certificate
