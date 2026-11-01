@@ -188,6 +188,20 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
     </td>
   </tr>
 </table>
+<table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">📰 Daily Notes on AI, ICT & Robotics</h3>
+        <p align="center">Three posts a day for teachers — AI news, free tools and classroom resources, with a clay-diorama visual style.</p>
+        <p align="center"><a href="https://www.linkedin.com/in/rayjoshua432"><b>Follow on LinkedIn →</b></a> · <a href="https://x.com/ry_devs"><b>Follow on X →</b></a></p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">👩‍💻 Rica Mae Supa — Portfolio</h3>
+        <p align="center">A light-bluish developer portfolio I built for a fellow ICT teacher and virtual assistant in Hua Hin, Thailand.</p>
+        <p align="center"><a href="https://ricamaesupa-portfolio.pages.dev"><b>Visit her portfolio →</b></a></p>
+      </td>
+    </tr>
+</table>
 
 ---
 
