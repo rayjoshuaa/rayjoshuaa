@@ -249,6 +249,7 @@ From my blog on tech, teaching and building software:
 - **Capstone Project Adviser** — BSIT Program
 - **Workshop Speaker** — IT Fest: Python Game Development
 - **Workshop Speaker** — IT Fest: Java Programming
+- **Verified Teacher** — GitHub Education (2026), with Copilot Pro
 
 ---
 
