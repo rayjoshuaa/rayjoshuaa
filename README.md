@@ -78,6 +78,16 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 
 ---
 
+## 👨‍#🏫 In My Classroom
+
+- 🧩 **Scratch** — first code for young learners: stories, games and animations
+- 🐍 **Python** — text-based programming, problem-solving and mini-projects
+- 🤖 **LEGO Robotics** — build, program and test real machines
+- 🔌 **Arduino Uno** — physical computing with sensors and circuits
+- 🧠 **AI literacy** — teaching students to use AI openly, critically and honestly
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
