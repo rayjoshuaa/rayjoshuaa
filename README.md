@@ -136,6 +136,18 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 
 ---
 
+## 🧰 Tools I Use Daily
+
+| Purpose | Tools |
+| :--- | :--- |
+| **Code** | VS Code with GitHub Copilot Pro, Claude & Cursor |
+| **Design** | Figma, Canva |
+| **Websites** | WordPress, Elementor, Shopify |
+| **Classroom** | GitHub Classroom, Scratch, Arduino IDE |
+| **Collaboration** | Git & GitHub, Jira |
+
+---
+
 ## 🚀 Featured Work
 
 <table>
