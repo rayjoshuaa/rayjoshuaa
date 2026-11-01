@@ -135,6 +135,7 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 **AI & Automation**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development_&_Automation-5A4FCF?style=for-the-badge&logo=robot&logoColor=white)
