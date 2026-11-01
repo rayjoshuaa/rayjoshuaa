@@ -189,6 +189,18 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 
 ---
 
+## ✍️ Latest Writing
+
+From my blog on tech, teaching and building software:
+
+- [10 AI Prompts Every Teacher Should Keep Handy](https://rayjoshuaa-portfolio.pages.dev/blog/ai-prompts-every-teacher-should-keep-handy)
+- [A Practical Guide to Teaching Students to Use AI Responsibly](https://rayjoshuaa-portfolio.pages.dev/blog/teaching-students-to-use-ai-responsibly)
+- [Building a School Management System for an Entire School](https://rayjoshuaa-portfolio.pages.dev/blog/building-a-school-management-system)
+- [How I Run a Robotics Club Students Actually Stay In](https://rayjoshuaa-portfolio.pages.dev/blog/running-a-robotics-club)
+- [From Business Systems Analyst to Classroom: What Corporate Taught Me About Teaching](https://rayjoshuaa-portfolio.pages.dev/blog/from-business-analyst-to-teacher)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
