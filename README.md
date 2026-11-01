@@ -227,6 +227,9 @@ From my blog on tech, teaching and building software:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rayjoshuaa&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rayjoshuaa&theme=github" alt="Profile details" width="98%" />
+</p>  
 
 ---
 
