@@ -1,4 +1,5 @@
 <div align="center">
+<img src="assets/banner.png" alt="Clay diorama banner — Ray Joshua's ICT and robotics classroom" width="100%" />
 
 # Ray Joshua Angcan Balingkit
 
