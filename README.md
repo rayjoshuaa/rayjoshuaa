@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/rayjoshua432">
     <img src="https://img.shields.io/badge/Instagram-@rayjoshua432-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/rj432">
+  <a href="https://www.facebook.com/rayjoshuaa/">
     <img src="https://img.shields.io/badge/Facebook-Ray_Joshua-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://x.com/ry_devs">
@@ -62,6 +62,17 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 - 🌱 Currently: teaching ICT & Robotics at SIAMIS in Bangkok, and sharing daily notes on AI, ICT and robotics in education
 - 🎓 Verified GitHub Education teacher — now building with Copilot Pro
 - 🐱 Quality control: my orange cat supervises every build
+
+## ✍️ Latest Writing
+
+From my blog on tech, teaching and building software:
+
+- [AI in Education: 85% of Teachers Use It, Only 18% Were Ever Shown How](https://rayjoshuaa-portfolio.pages.dev/blog/google-ai-education-report-guidance-gap)
+- [The 2026 CSTA Standards Are Out — Computer Science Is Bigger Than Coding, and AI Runs Through All of It](https://rayjoshuaa-portfolio.pages.dev/blog/csta-2026-computer-science-standards)
+- [Two in Three Students Now Revise With an AI Chatbot — What Teachers Should Do About It](https://rayjoshuaa-portfolio.pages.dev/blog/ai-chatbots-are-how-students-study-now)
+- [31 Bangkok Schools Agreed: AI Should Make Students Think More, Not Less](https://rayjoshuaa-portfolio.pages.dev/blog/bangkok-schools-ai-critical-thinking)
+
+---
 
 ---
 
@@ -201,20 +212,6 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
       </td>
     </tr>
 </table>
-
----
-
-## ✍️ Latest Writing
-
-From my blog on tech, teaching and building software:
-
-- [10 AI Prompts Every Teacher Should Keep Handy](https://rayjoshuaa-portfolio.pages.dev/blog/ai-prompts-every-teacher-should-keep-handy)
-- [A Practical Guide to Teaching Students to Use AI Responsibly](https://rayjoshuaa-portfolio.pages.dev/blog/teaching-students-to-use-ai-responsibly)
-- [Building a School Management System for an Entire School](https://rayjoshuaa-portfolio.pages.dev/blog/building-a-school-management-system)
-- [How I Run a Robotics Club Students Actually Stay In](https://rayjoshuaa-portfolio.pages.dev/blog/running-a-robotics-club)
-- [From Business Systems Analyst to Classroom: What Corporate Taught Me About Teaching](https://rayjoshuaa-portfolio.pages.dev/blog/from-business-analyst-to-teacher)
-
----
 
 ## 📊 GitHub Stats
 
