@@ -67,11 +67,11 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 
 From my blog on tech, teaching and building software:
 
+- [WordPress 7.1 Is Out — Your School Website Can Finally Look Right on Every Phone, No Code Needed](https://rayjoshuaa-portfolio.pages.dev/blog/wordpress-7-1-school-business-website)
 - [Demand for Claude Code Specialists Jumped 938% — Clients Want Freelancers Who Run the AI](https://rayjoshuaa-portfolio.pages.dev/blog/fiverr-claude-code-938-freelance-ai-demand)
 - [3,172 Students Proved It: Physical Computing Makes Coding Click](https://rayjoshuaa-portfolio.pages.dev/blog/physical-computing-microbit-3172-students)
 - [Your AI Prompts Are Too Short — Google's 5-Part PARTS Formula Fixes That](https://rayjoshuaa-portfolio.pages.dev/blog/ai-prompts-teachers-google-parts-formula)
 - [Homework Up 18%, Exams Down 20%: The AI Learning Penalty Is Real](https://rayjoshuaa-portfolio.pages.dev/blog/ai-learning-penalty-26811-students)
-- [AI in Education: 85% of Teachers Use It, Only 18% Were Ever Shown How](https://rayjoshuaa-portfolio.pages.dev/blog/google-ai-education-report-guidance-gap)
 
 ---
 
