@@ -67,11 +67,11 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 
 From my blog on tech, teaching and building software:
 
+- [AI Raised Test Scores 6.7 Points — But Only for Students Who Asked It to Explain, Not to Write](https://rayjoshuaa-portfolio.pages.dev/blog/generative-ai-learning-gains-211-students)
 - [Chrome 158 Is Out — Your Website Can Now Install Itself as an App](https://rayjoshuaa-portfolio.pages.dev/blog/chrome-158-web-install-api)
 - [H5P Gives Teachers 50+ Free Interactive Activities — No Budget, No Code, Just GitHub](https://rayjoshuaa-portfolio.pages.dev/blog/h5p-free-interactive-content-teachers)
 - [WordPress 7.1 Is Out — Your School Website Can Finally Look Right on Every Phone, No Code Needed](https://rayjoshuaa-portfolio.pages.dev/blog/wordpress-7-1-school-business-website)
 - [Demand for Claude Code Specialists Jumped 938% — Clients Want Freelancers Who Run the AI](https://rayjoshuaa-portfolio.pages.dev/blog/fiverr-claude-code-938-freelance-ai-demand)
-- [3,172 Students Proved It: Physical Computing Makes Coding Click](https://rayjoshuaa-portfolio.pages.dev/blog/physical-computing-microbit-3172-students)
 
 ---
 
