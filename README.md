@@ -67,11 +67,11 @@ I'm an **ICT, Computer Science & Robotics teacher** in Bangkok with **6+ years i
 
 From my blog on tech, teaching and building software:
 
+- [1.2 Billion People Ask ChatGPT Every Week — Now Your Business Can Claim Its Own Profile](https://rayjoshuaa-portfolio.pages.dev/blog/chatgpt-business-hub-claim-your-profile)
 - [52 Studies on AI in Schools, One Clear Rule: Ask It to Teach, Not to Do the Work](https://rayjoshuaa-portfolio.pages.dev/blog/stanford-scale-52-studies-ai-k12)
 - [The Hour of Code Is Now the Hour of AI — and This Year Your Students Build Their Own Game](https://rayjoshuaa-portfolio.pages.dev/blog/hour-of-ai-2026-start-building)
 - [Stop Stuffing Keywords: 5 Free SEO Fixes Google Actually Recommends for School and Small Business Websites](https://rayjoshuaa-portfolio.pages.dev/blog/google-seo-5-fixes-school-business-website)
 - [AI Raised Test Scores 6.7 Points — But Only for Students Who Asked It to Explain, Not to Write](https://rayjoshuaa-portfolio.pages.dev/blog/generative-ai-learning-gains-211-students)
-- [Chrome 158 Is Out — Your Website Can Now Install Itself as an App](https://rayjoshuaa-portfolio.pages.dev/blog/chrome-158-web-install-api)
 
 ---
 
